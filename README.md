@@ -1,3 +1,6 @@
+# About this code
+This example was extracted from AGPA — my fully autonomous general-purpose agent (closed-source, ~150k LOC).
+
 # AnthropicToolUseBuffer
 
 A C# implementation of asynchronous tool execution buffering for Anthropic's Claude API. This library enables **true parallel conversation and tool execution** - users can continue chatting while long-running tools execute in the background.
